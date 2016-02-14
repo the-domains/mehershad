@@ -1,0 +1,28 @@
+name: mehershad
+favicon: null
+layout_spectrum: 0.9275153663475066
+typography_spectrum: 0.4582216658163816
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.3389017037115991
+  lightness: 0.8055404545739293
+  saturation: 0.48449427890591323
+  rhythmicContrast: 0.16074350429698825
+purpose: []
